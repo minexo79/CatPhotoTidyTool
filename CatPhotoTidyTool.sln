@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CatPhotoTidyTool", "CatPhotoTidyTool\CatPhotoTidyTool.csproj", "{EFC27B68-036D-4BB2-8BA0-F50A2E0177DE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFC27B68-036D-4BB2-8BA0-F50A2E0177DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFC27B68-036D-4BB2-8BA0-F50A2E0177DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFC27B68-036D-4BB2-8BA0-F50A2E0177DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFC27B68-036D-4BB2-8BA0-F50A2E0177DE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {948C6D54-73C3-446B-BE14-5AEEE9EEF567}
+	EndGlobalSection
+EndGlobal
